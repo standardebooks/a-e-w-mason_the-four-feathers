@@ -28,6 +28,15 @@ section[epub|type~="dedication"] > *{
 		margin: 0;
 	}
 }
+
+section[epub|type~="dedication"] > p{
+	line-height: 2;
+	text-transform: uppercase;
+}
+
+section[epub|type~="dedication"] b{
+	font-size: larger;
+}
 /* End centered dedications */
 
 [epub|type~="acknowledgments"]{
