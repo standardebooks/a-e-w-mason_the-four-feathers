@@ -59,12 +59,11 @@
 		<dc:description id="description">A young man resigns from the military on the eve of deployment, is branded a coward, then sets off to atone through proving his courage and bravery and thus regain his honor.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Recently engaged Harry Feversham, son of a soldier and descended from a long line of soldiers, receives word his regiment is going overseas. For complex reasons he suddenly resigns rather than go. This action brands him a coward among fellow officers and his fiance, who give him white feathers, which were a symbol of cowardice in Britain at the time. Feversham then secretly sets out to Egypt and Sudan, where he awaits opportunities to redeem himself and regain his honor with his accusers. His daring adventures are beset with betrayal, torture, and imprisonment. His fiance is racked with regret and tries to convince herself she no longer loves him, becoming romantically entangled with Feversham’s friend who is a soldier in the regiment.&lt;/p&gt;
-			&lt;p&gt;The novel is recognized for vivid descriptions of settings as well as major and minor characters’ conflicted emotions and motivations. It is set during late 19th century, especially the British involvement in the Mahdist War in Sudan in the 1880s. The author had traveled widely in Egypt and Sudan by camel along caravan routes, visiting places described so clearly in the novel. First published as a single volume in &lt;time&gt;1902&lt;/time&gt; by Smith, Elder &amp;amp; Co., this is Alfred Edward Woodley Mason’s best-known “masterpiece”, and has been adapted for several films.&lt;/p&gt;
+			&lt;p&gt;The novel is recognized for vivid descriptions of settings as well as major and minor characters’ conflicted emotions and motivations. It is set during late 19th century, especially the British involvement in the Mahdist War in Sudan in the 1880s. The author had traveled widely in Egypt and Sudan by camel along caravan routes, visiting places described so clearly in the novel. First published as a single volume in &lt;time&gt;1902&lt;/time&gt; by Smith, Elder &amp;amp; Co., this is &lt;a href="https://standardebooks.org/ebooks/a-e-w-mason"&gt;Alfred Edward Woodley Mason’s&lt;/a&gt; best-known “masterpiece,” and has been adapted for several films.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18883</dc:source>
 		<dc:source>https://archive.org/details/fourfeathers0000aewm_i0h7</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Four_Feathers</meta>
@@ -94,7 +93,7 @@
 		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
+		<dc:contributor id="producer-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Anonymous</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
