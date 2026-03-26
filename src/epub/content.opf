@@ -77,7 +77,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Charles Camino</dc:contributor>
 		<meta property="file-as" refines="#artist">Camino, Charles</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://fr.wikipedia.org/wiki/Charles_Camino</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n97874235</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Lybarger</dc:contributor>
