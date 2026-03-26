@@ -45,10 +45,6 @@ section[epub|type~="dedication"] b{
 }
 /* End centered dedications */
 
-[epub|type~="acknowledgments"]{
-	margin-top: 20vh;
-}
-
 /* Begin song/verse */
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
