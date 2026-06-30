@@ -1,0 +1,1 @@
+The page scans are of a later edition than the PG transcription. Widespread changes include removing date from dedication, consistency naming Melusine Overture, chapter title changes, revision of several sentences, and edits to phrasing, spelling of Arabic words, and punctuation. We have followed the page scans in all matters.
